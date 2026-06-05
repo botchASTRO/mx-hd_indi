@@ -11,7 +11,7 @@
  Library General Public License for more details.
 
  You should have received a copy of the GNU Library General Public License
- along with this library; see the file COPYING.LGPL21.  If not, write to
+ along with this library; see the file LICENSE.  If not, write to
  the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor,
  Boston, MA 02110-1301, USA.
 *******************************************************************************/
