@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<driversList>
+    <devGroup group="Telescopes">
+        <device label="MX-HD Telescope" manufacturer="GOTO INC">
+            <driver name="MX-HD Telescope">indi_mxhd_telescope</driver>
+            <version>@MXHD_DRIVER_VERSION@</version>
+        </device>
+    </devGroup>
+</driversList>
