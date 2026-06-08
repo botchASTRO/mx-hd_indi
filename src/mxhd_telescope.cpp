@@ -301,7 +301,7 @@ static std::string formatDecSd(double decDeg)
 
 MXHDTelescope::MXHDTelescope()
 {
-    setVersion(0, 1);
+    setVersion(1, 0);
     setDefaultPollingPeriod(4000);
     uint32_t capabilities =
         TELESCOPE_CAN_GOTO |

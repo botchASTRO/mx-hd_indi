@@ -5,7 +5,7 @@ include(GNUInstallDirs)
 
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
-set(MXHD_DRIVER_VERSION "0.1")
+set(MXHD_DRIVER_VERSION "1.0")
 
 find_package(PkgConfig REQUIRED)
 
